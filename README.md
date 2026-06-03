@@ -14,8 +14,8 @@ I love turning ideas into real products.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql,oracle" />
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql,oracledb" />
+
 
 
 ## 🔗 Connect with me
