@@ -5,7 +5,7 @@
 I'm a Vietnamese student born in 2006, passionate about building fullstack web applications.  
 I love turning ideas into real products.
 
-🌏 Based in Ho Chi Minh City, Viet Nam  
+🌏 Based in Can Tho City, Viet Nam  
 💻 Currently building a **Social Network App** with Spring Boot & Next.js  
 🎯 Dream: Become a professional **Fullstack Web Developer**  
 📖 Always learning, always shipping
@@ -15,7 +15,7 @@ I love turning ideas into real products.
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql,oracle" />
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ## 🔗 Connect with me
