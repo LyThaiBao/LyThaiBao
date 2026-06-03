@@ -3,7 +3,7 @@
 # Hi 👋 My name is Timmy
 
 I'm a Vietnamese student born in 2006, passionate about building fullstack web applications.  
-I love turning ideas into real products — from REST APIs to polished UIs.
+I love turning ideas into real products.
 
 🌏 Based in Ho Chi Minh City, Viet Nam  
 💻 Currently building a **Social Network App** with Spring Boot & Next.js  
@@ -14,15 +14,15 @@ I love turning ideas into real products — from REST APIs to polished UIs.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql,git,github,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql" />
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LythaiBao&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyThaiBao&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LythaiBao&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LyThaiBao&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
