@@ -14,7 +14,7 @@ I love turning ideas into real products.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql" />
   </a>
