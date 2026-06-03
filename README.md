@@ -14,17 +14,9 @@ I love turning ideas into real products.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,mysql,oracle" />
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyThaiBao&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LyThaiBao&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🔗 Connect with me
 
