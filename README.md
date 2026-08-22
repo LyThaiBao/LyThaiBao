@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 My name is Timmy
+# Hi 👋 My name is Lý Thái Bảo (Timmy)
 
 I'm a Vietnamese student born in 2006, passionate about building fullstack web applications.  
 I love turning ideas into real products.
